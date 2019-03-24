@@ -5,10 +5,10 @@ Obviously I took the original script elsewhere but it was not running at all bec
 
 This one works and has been tested.
 
-There is no simple quotes >'< because it brings problems when manipulating this script between OSs' (Win, linux ...)
+There is no simple quotes >'< because it brings problem when manipulating this script between OSs' (Win, linux ...)
 
 
-Create the dynhost entrry in OVH service for the host you need.
+Create the dynhost entry in OVH service for the host you need.
 
 ex: http://api.yoursupersite.com
 
